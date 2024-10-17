@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "lib": ["es6", "dom"],
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "types": ["cypress", "@shelex/cypress-allure-plugin"]
+  },
+  "include": ["cypress/**/*.ts"],
+  "exclude": ["node_modules"]
+}

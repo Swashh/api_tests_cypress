@@ -1,0 +1,28 @@
+{
+  "keys": [
+    "id",
+    "pretty_id",
+    "name",
+    "team_id",
+    "creator",
+    "owner",
+    "color",
+    "date_created",
+    "start_date",
+    "due_date",
+    "description",
+    "private",
+    "archived",
+    "multiple_owners",
+    "editor_token",
+    "date_updated",
+    "last_update",
+    "folder_id",
+    "pinned",
+    "owners",
+    "key_result_count",
+    "members",
+    "group_members",
+    "percent_completed"
+  ]
+}

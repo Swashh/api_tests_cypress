@@ -1,0 +1,7 @@
+{
+  "name": "Goal Name",
+  "description": "Goal Description",
+  "multiple_owners": true,
+  "owners": [],
+  "color": "#32a852"
+}
